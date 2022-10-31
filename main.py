@@ -1,4 +1,4 @@
-"""Module demonstrating Click CLI
+"""Module demonstrating Click 
 """
 import click
 
