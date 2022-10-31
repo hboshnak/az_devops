@@ -1,3 +1,6 @@
+hello:
+	echo "I'm here justto say HELLO"
+
 install:
 	pip install --upgrade pip &&\
 		pip install -r requirements.txt
